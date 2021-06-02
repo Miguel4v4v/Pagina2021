@@ -1,0 +1,86 @@
+/**Codigo por ver**/
+/**div#imagen {
+    width: 500px;
+    height: 300px;
+    background-size: cover;
+    margin: 30px auto;
+    
+  }
+  
+  div#info {
+    position:absolute;
+    overflow:hidden;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(31, 31, 31, 0.9);
+    opacity:0;
+    transition: opacity 0.3s;
+  }
+  
+  div#imagen:hover div#info {
+    opacity:1;
+  }
+  
+  p#headline {
+    position: absolute;
+    font-size: 1.5rem;
+    margin-left: -25px;
+    margin-top: 15px;
+    transition: margin-left 0.3s;
+    text-align: center;
+  }
+  
+  
+  div#imagen:hover p#headline {
+    margin-left: 115px;
+  }
+  
+  p#descripcion {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 200px;
+    transition: margin-top 0.4s;
+  }
+  
+  div#imagen:hover p#descripcion {
+    margin-top: 75px;
+  }
+  
+**/
+/**Codigo por ver**/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**Codigo por ver-->
+
+<!--<div id="imagen">
+    <div id="info">
+        <!--<img id="foto" src="../img/3.jpg" alt="">
+      <p id="headline">Título</p>
+      <p id="descripcion">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente voluptates.</p>
+    </div>
+  </div>-->
+
+  <!--Codigo por ver-->
+  
+
+  <!--imagen sobre texto-->
+
+  <!--imagen sobre texto-->
