@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
 :root{
     --red: #ff2e63;
     --black: #252a34;
@@ -40,7 +42,7 @@ body{
     left: 10px;
     width: 100%;
     margin: 0% auto;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', serif;
     opacity: 100%;
 }
 .centrado{
